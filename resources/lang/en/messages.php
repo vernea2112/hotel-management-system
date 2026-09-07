@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'welcome' => 'Welcome to Hotel Management System',
+    'dashboard' => 'Dashboard',
+    'guests' => 'Guests',
+    'rooms' => 'Rooms',
+    'reservations' => 'Reservations',
+    'billing' => 'Billing',
+    'staff' => 'Staff',
+    'reports' => 'Reports',
+    'settings' => 'Settings',
+    'logout' => 'Logout',
+    'login' => 'Login',
+    'email' => 'Email',
+    'password' => 'Password',
+    'remember_me' => 'Remember me',
+    'forgot_password' => 'Forgot password?',
+    'add_new' => 'Add New',
+    'edit' => 'Edit',
+    'delete' => 'Delete',
+    'save' => 'Save',
+    'cancel' => 'Cancel',
+    'search' => 'Search',
+    'no_results' => 'No results found',
+    'success' => 'Operation completed successfully',
+    'error' => 'An error occurred',
+];

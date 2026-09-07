@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'welcome' => 'Bem-vindo ao Sistema de Gerenciamento de Hotel',
+    'dashboard' => 'Painel',
+    'guests' => 'Hóspedes',
+    'rooms' => 'Quartos',
+    'reservations' => 'Reservas',
+    'billing' => 'Faturamento',
+    'staff' => 'Pessoal',
+    'reports' => 'Relatórios',
+    'settings' => 'Configurações',
+    'logout' => 'Sair',
+    'login' => 'Entrar',
+    'email' => 'Email',
+    'password' => 'Senha',
+    'remember_me' => 'Lembrar-me',
+    'forgot_password' => 'Esqueceu a senha?',
+    'add_new' => 'Adicionar Novo',
+    'edit' => 'Editar',
+    'delete' => 'Deletar',
+    'save' => 'Salvar',
+    'cancel' => 'Cancelar',
+    'search' => 'Pesquisar',
+    'no_results' => 'Nenhum resultado encontrado',
+    'success' => 'Operação concluída com sucesso',
+    'error' => 'Um erro ocorreu',
+];
